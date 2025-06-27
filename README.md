@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TriHealth Mart - Modern Health & Wellness E-commerce Platform
 
 A modern, responsive e-commerce website built with PHP, MySQL, and Bootstrap 5, focusing on health and wellness products.
@@ -99,3 +100,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, email support@trihealthmart.com or create an issue in the repository. 
+=======
+# trihealth-mart
+>>>>>>> d7786f3ced78d3bd8ea8171c8b61c3d2e6905a54
